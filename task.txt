@@ -1,0 +1,10 @@
+About C language :
+
+heading 
+3-4 line -- paragaraph
+
+Advantage of c 
+3-4 line 
+
+disAdvantage of c
+3-4 line
