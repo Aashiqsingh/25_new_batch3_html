@@ -23,3 +23,11 @@ ola
 uber
 instagram 
 facebook
+
+
+-----------------------------------------------
+Table :
+ 
+ Emp table 
+
+ Id | Name | age | gender | email | salary
